@@ -1,6 +1,6 @@
 ================================================
   波哥信号 · 美股日报  数据截至 2026-09-18 收盘(ET)
-  生成 09-18 18:44 纽约 = 09-19 06:44 新加坡
+  生成 09-21 14:17 纽约 = 09-22 02:17 新加坡
 ================================================
 
 ① 决 策 —— 今天做什么
@@ -9,26 +9,26 @@
 ------------------------------------------------
 【候选】17 只（形态+板块确认+无财报风险·未回测）
   NASDAQ:LITE   口袋支点      日内:⚪观望
-  NASDAQ:AAOI   口袋支点      日内:🔥强主升浪
-  NASDAQ:AMAT   口袋支点      日内:🔥强主升浪
-  NASDAQ:SNDK   口袋支点      日内:🔥强主升浪
-  NASDAQ:QQQ    口袋支点      日内:🟡警告:临近前高
-  NYSE:CAT      口袋支点      日内:⚪观望
-  NASDAQ:CRDO   超跌反弹      日内:🟢强动能买点
-  NASDAQ:HOOD   口袋支点      日内:🟢突破买点
-  NASDAQ:AMD    口袋支点      日内:🟢强动能买点
-  NASDAQ:MU     口袋支点      日内:🟢强动能买点
+  NASDAQ:AAOI   口袋支点      日内:⚪观望
+  NASDAQ:AMAT   口袋支点      日内:🟡警告:临近前高
+  NASDAQ:SNDK   口袋支点      日内:🔴规避/止损
+  NASDAQ:QQQ    口袋支点      日内:🟢突破买点
+  NYSE:CAT      口袋支点      日内:🟢稳健买点
+  NASDAQ:CRDO   超跌反弹      日内:⚪观望
+  NASDAQ:HOOD   口袋支点      日内:⚪观望
+  NASDAQ:AMD    口袋支点      日内:🟢突破买点
+  NASDAQ:MU     口袋支点      日内:🟢稳健买点
   NASDAQ:AXTI   口袋支点      日内:🔴锁定利润
-  NASDAQ:PLTR   口袋支点      日内:🟡警告:临近前高
-  NASDAQ:CIBR   10EMA回调   日内:🟢黄金买点
-  NYSE:SNOW     10EMA回调   日内:🔴规避/止损
-  NASDAQ:RIOT   口袋支点      日内:🟢强动能买点
+  NASDAQ:PLTR   口袋支点      日内:🟢突破买点
+  NASDAQ:CIBR   10EMA回调   日内:🟡警告:临近前高
+  NYSE:SNOW     10EMA回调   日内:🟢稳健买点
+  NASDAQ:RIOT   口袋支点      日内:⚪观望
   NASDAQ:HUT    口袋支点      日内:🔥强主升浪
-  NASDAQ:APLD   口袋支点      日内:🔥强主升浪
+  NASDAQ:APLD   口袋支点      日内:🟢强动能买点
 【否决】
   NYSE:LLY      板块背离
   NYSE:GEV      板块背离
-【风险】日元⚠️156.9
+【风险】日元⚠️156.1
 ------------------------------------------------
 
 ② 证 据 —— 凭什么这么判
@@ -36,58 +36,60 @@
 【大盘】
   SPX 7650 (MA50+0.4%) · RSI 45 · VIX 14.8
   风格: MTUM/MAGS 4.39 站上20日均 → 动量MTUM
-  日性质(因子ETF超额·非纯因子): 动量+1.3 高贝+1.5 低波-0.3 价值-0.1 → 风偏进攻日
+  日性质(因子ETF超额·非纯因子): 动量+1.0 高贝+1.2 低波-0.6 价值-0.3 → 风偏进攻日
   派发 ▁▂▃▃▃▃▃▃▃▃▃▄▄▄▄▄▅▅▅▅▆▇█▇▇ (6/吸2) → 仓位20%
   阶段C1 资金共识 恐慌4/4 共识5/5
-  宏观 ✅ATR1411% ✗10Y5.00% ✗HYG/LQD0.7500 ✗USD/JPY156.85
+  宏观 ✅ATR1411% ✗10Y5.00% ✗HYG/LQD0.7500 ✗USD/JPY156.13
 ------------------------------------------------
 【主题雷达】今天钱去哪了(池外65主题·不给信号)
-  涨幅优先: AMEX:ARKG 基因组  AMEX:HACK 网络安全  AMEX:CRAK 炼化下游  AMEX:USO 原油  AMEX:BITQ 加密公司
-  短线改善: NASDAQ:WCLD 云软件  AMEX:SLV 白银  AMEX:GLD 黄金  AMEX:XLV 医疗健康 (Health Care)  NASDAQ:TLT 长债
+  涨幅优先: AMEX:ARKG 基因组  AMEX:CRAK 炼化下游  AMEX:HACK 网络安全  AMEX:BITQ 加密公司  NASDAQ:SKYY 云计算
+  短线改善: NASDAQ:BOTZ 机器人  AMEX:MTUM 动量  AMEX:IPO 新股  NASDAQ:SOXX 半导体主题 (Semis)  AMEX:SLV 白银
 ------------------------------------------------
 【板块】
-  强: NASDAQ:SOXX+2.8%
-  🚨砸盘: AMEX:XLC-1.3%(量1.6x)
-  主题🔥 矿转AIDC +6.9%  龙头 NASDAQ:RIOT
-  主题🔥 🏦 降息受益 +5.6%  龙头 NASDAQ:COIN
-  主题🔥 🔥 AI算力 +2.1%  龙头 NASDAQ:MU
-  主题🧊 ⚡ AI电网 -2.5%
+  强: NASDAQ:SOXX+2.6%
+  🚨砸盘: AMEX:XLC-1.5%(量1.6x)
+  主题🔥 矿转AIDC +6.7%  龙头 NASDAQ:RIOT
+  主题🔥 🏦 降息受益 +5.3%  龙头 NASDAQ:COIN
+  主题🧊 ⚡ AI电网 -2.7%
 ------------------------------------------------
 【个股信号】日线资格 × 日内时机（同源串联·未回测）
  ▶ 日线+日内同向
-   NASDAQ:AAOI   💡口袋支点      🔥强主升浪
-   NYSE:LLY      💡口袋支点      🟢黄金买点
-   NASDAQ:AMAT   💡口袋支点      🔥强主升浪
-   NYSE:GEV      💡口袋支点      🟢稳健买点
-   NASDAQ:SNDK   💡口袋支点      🔥强主升浪
-   NASDAQ:CRDO   🚀超跌反弹      🟢强动能买点
-   NASDAQ:HOOD   💡口袋支点      🟢突破买点
-   NASDAQ:AMD    💡口袋支点      🟢强动能买点
-   NASDAQ:MU     💡口袋支点      🟢强动能买点
-   NASDAQ:CIBR   🟢10EMA回调   🟢黄金买点
-   NASDAQ:RIOT   💡口袋支点      🟢强动能买点
+   NYSE:LLY      💡口袋支点      🟢突破买点
+   NASDAQ:QQQ    💡口袋支点      🟢突破买点
+   NYSE:CAT      💡口袋支点      🟢稳健买点
+   NASDAQ:AMD    💡口袋支点      🟢突破买点
+   NASDAQ:MU     💡口袋支点      🟢稳健买点
+   NASDAQ:PLTR   💡口袋支点      🟢突破买点
+   NYSE:SNOW     🟢10EMA回调   🟢稳健买点
    NASDAQ:HUT    💡口袋支点      🔥强主升浪
-   NASDAQ:APLD   💡口袋支点      🔥强主升浪
+   NASDAQ:APLD   💡口袋支点      🟢强动能买点
  ▶ 等时机（日内未给买点）
    NASDAQ:LITE   💡口袋支点      ⚪观望
-   NASDAQ:QQQ    💡口袋支点      🟡警告:临近前高
-   NYSE:CAT      💡口袋支点      ⚪观望
-   NASDAQ:PLTR   💡口袋支点      🟡警告:临近前高
+   NASDAQ:AAOI   💡口袋支点      ⚪观望
+   NASDAQ:AMAT   💡口袋支点      🟡警告:临近前高
+   NYSE:GEV      💡口袋支点      ⚪观望
+   NASDAQ:CRDO   🚀超跌反弹      ⚪观望
+   NASDAQ:HOOD   💡口袋支点      ⚪观望
+   NASDAQ:CIBR   🟢10EMA回调   🟡警告:临近前高
+   NASDAQ:RIOT   💡口袋支点      ⚪观望
  ▶ 冲突（日线买点/日内破位）
+   NASDAQ:SNDK   💡口袋支点      🔴规避/止损
    NASDAQ:AXTI   💡口袋支点      🔴锁定利润
-   NYSE:SNOW     🟢10EMA回调   🔴规避/止损
-  日内异动: NYSE:BE🔴  NASDAQ:NBIS🔥  NASDAQ:RKLB🔴  NASDAQ:INTC🟢 
-            NASDAQ:SMH🟡  NYSE:ANET🟢  NASDAQ:SPCX🟢  AMEX:GDX🟢 
-            NASDAQ:IREN🔥  NASDAQ:CORZ🟢  NASDAQ:CIFR🔥  NASDAQ:WULF🟢 
+  日内异动: NASDAQ:NBIS🔥  NASDAQ:RKLB🔴  NASDAQ:MSFT🔴  NASDAQ:INTC🔴 
+            NASDAQ:SMH🟢  NYSE:NET🟢  NASDAQ:CRWD🟡  NYSE:ANET🟡 
+            NASDAQ:SPCX🔴  AMEX:GDX🔴  NASDAQ:IREN🟢  NASDAQ:CORZ🟢 
+            NASDAQ:WULF🟢 
+  盘前±2%: NASDAQ:AXTI+12.8% NASDAQ:INTC+11.9% NASDAQ:AMD+8.8% NASDAQ:HUT+8.6% NASDAQ:RKLB+7.8% NYSE:NET+7.5% NASDAQ:NBIS+5.7% NASDAQ:CRDO+5.3% NASDAQ:CRWD+4.7% NASDAQ:AMAT+4.4% NASDAQ:HOOD+4.2% NASDAQ:SMH+3.7% NASDAQ:WULF+3.6% NYSE:BE+3.6% NASDAQ:RIOT+3.3% NASDAQ:CORZ+3.3% NASDAQ:LITE+3.0% NYSE:ANET+2.9% NASDAQ:MU+2.8% NASDAQ:IREN+2.8% NASDAQ:CIFR+2.7% NASDAQ:CIBR+2.6% NASDAQ:QQQ+2.6% NASDAQ:PLTR+2.3% NASDAQ:APLD+2.2% NASDAQ:SNDK-2.1%
 ------------------------------------------------
 【走势中频】只给资格·不给买点(时机仍看日线形态×日内)
-  上升趋势占比 58% · 📣IREN S4↓→S3⌒ · 旭创 S1⌐→S2↑ · 富联 S1⌐→S2↑
+  上升趋势占比 58%
   🟢合格·在买点区(17): NASDAQ:INTC NASDAQ:SNDK NASDAQ:QQQ NASDAQ:CRWD NASDAQ:AMD SSE:688498(源杰) NYSE:ANET SSE:688519(南亚) NASDAQ:HUT NASDAQ:SMH NASDAQ:MU NASDAQ:CIBR SSE:601208(东材) NYSE:BE NASDAQ:HOOD SZSE:300502(新易盛) SZSE:002463(沪电)
   🟢合格·追高区勿追(1): NASDAQ:RIOT
-  🔴淘汰(11): SZSE:300499(高澜) NASDAQ:IREN NASDAQ:APLD SZSE:300394(天孚) SZSE:300990(同飞) SZSE:002837(英维克) NASDAQ:RKLB SZSE:300476(胜宏) NYSE:LLY AMEX:GDX AMEX:SPY
+  🔴淘汰(11): SZSE:300499(高澜) NASDAQ:IREN NASDAQ:APLD SZSE:300394(天孚) SZSE:300990(同飞) SZSE:002837(英维克) NASDAQ:RKLB SZSE:300476(胜宏) NYSE:LLY AMEX:SPY AMEX:GDX
 ------------------------------------------------
 【期权异动】新钱过滤(v/oi≥1.5)·T+1确认·仅佐证
-  今日: SNDKC$1590M(v/oi75.8) QQQC$1201M(v/oi72.1) MUC$925M(v/oi99.0) AMDC$346M(v/oi38.2) PLTRC$175M(v/oi8.8)
+  今日: QQQC$768M(v/oi99.0) SNDK≈$174M(v/oi12.7) AMDC$149M(v/oi99.0) MU≈$135M(v/oi99.0) INTCC$75M(v/oi99.0)
+  T+1核对: BEC245(09-25)✅开仓 BEC267.5(09-25)✗未增 BEC270(09-25)✗未增 BEC272.5(09-25)✗未增
 ------------------------------------------------
 
 ③ 参 考 —— 独立体系 / 背景
