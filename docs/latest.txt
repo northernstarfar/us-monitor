@@ -1,6 +1,6 @@
 ================================================
   波哥信号 · 美股日报  数据截至 2026-10-12 收盘(ET)
-  生成 10-12 22:10 纽约 = 10-13 10:10 新加坡
+  生成 10-13 15:27 纽约 = 10-14 03:27 新加坡
 ================================================
 
 ① 决 策 —— 今天做什么
@@ -8,10 +8,10 @@
 【结论】仓位上限 80% · 阶段P0 · 宏观2/4 · 抱团MAGS
 ------------------------------------------------
 【候选】4 只（形态+板块确认+无财报风险·未回测）
-  NYSE:LLY      10EMA回调   日内:🟢稳健买点
+  NYSE:LLY      10EMA回调   日内:🔴规避/止损
   NYSE:GEV      10EMA回调   日内:⚪观望
-  NASDAQ:HOOD   超跌反弹      日内:🟢稳健买点
-  NASDAQ:HUT    超跌反弹      日内:⚪观望
+  NASDAQ:HOOD   超跌反弹      日内:⚪观望
+  NASDAQ:HUT    超跌反弹      日内:🔴锁定利润
 【否决】
   NASDAQ:QQQ    板块背离
   NYSE:NET      板块背离
@@ -30,11 +30,11 @@
   日性质(因子ETF超额·非纯因子): 动量-1.5 高贝-2.1 低波+0.3 价值-0.8 → 去杠杆/轮动日
   派发 ▅▅▅▅▆▇█▇▇▃▂▃▃▃▅▅▆▅▄▁▁▂▃▃▃ (2/吸1) → 仓位80%
   阶段P0 恐慌未释放 恐慌1/4 共识1/5 缺:SMH站上20日线
-  宏观 ✅ATR1411% ✗10Y5.24% ✗HYG/LQD0.7535 ✅USD/JPY158.31
+  宏观 ✅ATR1411% ✗10Y5.24% ✗HYG/LQD0.7535 ✅USD/JPY158.06
 ------------------------------------------------
 【主题雷达】今天钱去哪了(池外65主题·不给信号)
-  涨幅优先: AMEX:HACK 网络安全  NASDAQ:SKYY 云计算  NASDAQ:WCLD 云软件  AMEX:IEO 油气上游  AMEX:IGV 软件
-  短线改善: AMEX:USO 原油  AMEX:XRT 零售  AMEX:XLY 可选消费 (Discretionary)  AMEX:XLU 公用事业/AI电网 (Utilities)  AMEX:GLD 黄金
+  涨幅优先: AMEX:IEO 油气上游  AMEX:CRAK 炼化下游  AMEX:UNG 天然气  AMEX:XLV 医疗健康 (Health Care)  NASDAQ:WCLD 云软件
+  短线改善: AMEX:USO 原油  NASDAQ:HERO 游戏  AMEX:XHE 医疗设备  NASDAQ:PPH 制药  AMEX:XLY 可选消费 (Discretionary)
 ------------------------------------------------
 【板块】
   强: AMEX:XLE+1.5% · AMEX:XLP+1.2% · AMEX:XLC+1.0%
@@ -45,34 +45,34 @@
 ------------------------------------------------
 【个股信号】日线资格 × 日内时机（同源串联·未回测）
  ▶ 日线+日内同向
-   NYSE:LLY      🟢10EMA回调   🟢稳健买点
-   NASDAQ:HOOD   🚀超跌反弹      🟢稳健买点
+   NASDAQ:QQQ    🟢10EMA回调   🟢稳健买点
    AMEX:GDX      🚀超跌反弹      🟢稳健买点
  ▶ 等时机（日内未给买点）
    NYSE:GEV      🟢10EMA回调   ⚪观望
    NYSE:NET      🟢10EMA回调   ⚪观望
-   NASDAQ:SPCX   🟢10EMA回调   ⚪观望
-   NASDAQ:HUT    🚀超跌反弹      ⚪观望
+   NASDAQ:CRWD   🟢10EMA回调   ⚪观望
+   NYSE:ANET     🟢10EMA回调   ⚪观望
+   NASDAQ:HOOD   🚀超跌反弹      ⚪观望
  ▶ 冲突（日线买点/日内破位）
-   NASDAQ:QQQ    🟢10EMA回调   🔴规避/止损
-   NASDAQ:CRWD   🟢10EMA回调   🔴规避/止损
-   NYSE:ANET     🟢10EMA回调   🔴规避/止损
-  日内异动: NYSE:BE🔴  NASDAQ:NBIS🔴  NASDAQ:RKLB🔴  NASDAQ:LITE🔴 
-            NASDAQ:AAOI🔴  NASDAQ:MSFT🟢  NASDAQ:INTC🔴  NASDAQ:AMAT🟢 
-            NASDAQ:SMH🔴  NASDAQ:SNDK🟡  NASDAQ:CRDO🔴  NASDAQ:AMD🟢 
-            NASDAQ:AXTI🔴  NASDAQ:PLTR🟢  NASDAQ:CIBR🔴  NYSE:SNOW🔴 
-            NASDAQ:IREN🔴  NASDAQ:CORZ🔴  NASDAQ:RIOT🔴  NASDAQ:CIFR🔴 
-            NASDAQ:WULF🔴 
-  盘前±2%: NASDAQ:SNDK-2.2% NASDAQ:CRDO-2.0%
+   NYSE:LLY      🟢10EMA回调   🔴规避/止损
+   NASDAQ:SPCX   🟢10EMA回调   🔴规避/止损
+   NASDAQ:HUT    🚀超跌反弹      🔴锁定利润
+  日内异动: NYSE:BE🟡  NASDAQ:NBIS🟡  NASDAQ:INTC🟢  NASDAQ:AMAT🔴 
+            NASDAQ:SMH🟡  NASDAQ:SNDK🟡  NYSE:CAT🔴  NASDAQ:CRDO🟡 
+            NASDAQ:AMD🟡  NASDAQ:MU🟡  NASDAQ:AXTI🔥  NASDAQ:IREN🟡 
+            NASDAQ:CORZ🟡  NASDAQ:RIOT🟡  NASDAQ:CIFR🟡  NASDAQ:WULF🟡 
+            NASDAQ:APLD🟡 
+  盘前±2%: NASDAQ:CIFR-9.6% NASDAQ:AMAT-6.9% NASDAQ:MU-4.9% NASDAQ:SPCX-4.0% NASDAQ:AAOI-3.8% NASDAQ:AXTI+3.5% NASDAQ:APLD-3.3% NYSE:CAT-3.2% NYSE:ANET-2.9% NASDAQ:RKLB-2.5% NASDAQ:SNDK-2.2% NASDAQ:CORZ+2.0%
 ------------------------------------------------
 【走势中频】只给资格·不给买点(时机仍看日线形态×日内)
-  上升趋势占比 40% · 📣生益 S2↑→S1⌐ · 东材 S2↑→S1⌐ · 南亚 S2↑→S1⌐
+  上升趋势占比 45% · 📣沪电 S1⌐→S2↑ · 生益 S1⌐→S2↑ · 南亚 S1⌐→S2↑
   🟢合格·在买点区(13): NASDAQ:LITE NASDAQ:MSFT NASDAQ:CRWD NASDAQ:PLTR NASDAQ:CIBR NYSE:SNOW AMEX:SPY NYSE:LLY NYSE:NET NASDAQ:QQQ NASDAQ:AMAT NYSE:ANET NASDAQ:AMD
   🟢合格·追高区勿追(0): 无
-  🔴淘汰(14): NYSE:GEV NASDAQ:MU SSE:688072(拓荆) NASDAQ:HOOD SZSE:300990(同飞) NASDAQ:CRDO NASDAQ:INTC NASDAQ:NBIS NYSE:BE NASDAQ:APLD NASDAQ:SNDK AMEX:GDX SZSE:300476(胜宏) SZSE:002837(英维克)
+  🔴淘汰(16): NYSE:GEV SZSE:300990(同飞) NASDAQ:MU NASDAQ:HOOD NASDAQ:CRDO NASDAQ:INTC NASDAQ:NBIS NYSE:BE NASDAQ:APLD SSE:688519(南亚) NASDAQ:SNDK AMEX:GDX SSE:600183(生益) SZSE:300476(胜宏) SZSE:002463(沪电) SZSE:002837(英维克)
 ------------------------------------------------
 【期权异动】新钱过滤(v/oi≥1.5)·T+1确认·仅佐证
-  今日: SNDK≈$227M(v/oi42.4) MU≈$189M(v/oi66.5) AMD≈$89M(v/oi48.0) QQQ≈$75M(v/oi99.0) MSFTC$60M(v/oi30.3)
+  今日: MU≈$304M(v/oi99.0) QQQC$270M(v/oi99.0) AMDC$223M(v/oi52.2) SNDK≈$177M(v/oi19.1) MSFTC$58M(v/oi54.3)
+  T+1核对: BEC257.5(10-16)✗未增 BEC262.5(10-16)✗未增 BEC265(10-16)✗未增 BEC267.5(10-16)✗未增
 ------------------------------------------------
 
 ③ 参 考 —— 独立体系 / 背景
